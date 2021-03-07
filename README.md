@@ -1,0 +1,2 @@
+# movie-recommender-system
+I have created Movie recommedation system using Machine Learning via Python and using pre existed Movies database from internet. It takes the input of genre of movie the user is interested in as input and then accordingly they recommends the top 10 movies of that genre to the user. It also gives recommedation if multiple genre has been selected by the user. See the [notebook](movie_recommendations.ipynb) for more details.
